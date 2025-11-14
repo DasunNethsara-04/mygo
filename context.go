@@ -1,4 +1,4 @@
-package main
+package mygo
 
 import (
 	"encoding/json"
